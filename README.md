@@ -3,6 +3,16 @@
 This project consists of a web server that sends a simple page to the user where a city can be searched and sent back to the server. Once the server has the city name and coordinates it will use a
 simple web API to get weather information and display the result on an OLED display.
 
+OLED
+
+![OLED](OLED.png)
+
+
+Web page
+
+![Web_page](website.png)
+
+
 ## Running the project
 
 - Connect your ESP32 or compatible board to the PC or MAC
