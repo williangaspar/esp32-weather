@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# password headers
+*password.h
